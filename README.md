@@ -3,7 +3,7 @@
 ## Auto Install
 
 ```
-wget -O start https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/Telegram/start && chmod +x start && ./start
+wget -O start https://raw.githubusercontent.com/pvsairam/Telegram/main/start && chmod +x start && ./start
 ```
 
 ## Crontab
